@@ -7,8 +7,8 @@
     <ProjectGuid>{85D308E3-86DC-4E48-8643-3BFB24AFAB35}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Composite</RootNamespace>
-    <AssemblyName>Pattern.Composite</AssemblyName>
+    <RootNamespace>_9.Pattern.Composite</RootNamespace>
+    <AssemblyName>9.Pattern.Composite</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

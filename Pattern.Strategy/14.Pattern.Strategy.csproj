@@ -7,8 +7,8 @@
     <ProjectGuid>{D5102D96-AF0E-4819-BBB5-289D6CEA63B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Strategy</RootNamespace>
-    <AssemblyName>Pattern.Strategy</AssemblyName>
+    <RootNamespace>_14.Pattern.Strategy</RootNamespace>
+    <AssemblyName>14.Pattern.Strategy</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

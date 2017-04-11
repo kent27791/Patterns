@@ -7,8 +7,8 @@
     <ProjectGuid>{668D08CA-F540-4AB1-A247-DE8ED0B2ADDA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Command</RootNamespace>
-    <AssemblyName>Pattern.Command</AssemblyName>
+    <RootNamespace>_15.Pattern.Command</RootNamespace>
+    <AssemblyName>15.Pattern.Command</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

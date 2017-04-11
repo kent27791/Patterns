@@ -7,8 +7,8 @@
     <ProjectGuid>{C10DC057-16F1-4926-9832-E671DCB2D0A8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Singleton</RootNamespace>
-    <AssemblyName>Pattern.Singleton</AssemblyName>
+    <RootNamespace>_3.Pattern.Singleton</RootNamespace>
+    <AssemblyName>3.Pattern.Singleton</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

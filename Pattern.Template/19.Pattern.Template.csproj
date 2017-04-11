@@ -7,8 +7,8 @@
     <ProjectGuid>{07006B28-911D-4214-9390-291C35FFBFB9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Template</RootNamespace>
-    <AssemblyName>Pattern.Template</AssemblyName>
+    <RootNamespace>_19.Pattern.Template</RootNamespace>
+    <AssemblyName>19.Pattern.Template</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -7,8 +7,8 @@
     <ProjectGuid>{D6CDB60B-E010-4B4A-BCF2-9BC09C81FD01}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Facade</RootNamespace>
-    <AssemblyName>Pattern.Facade</AssemblyName>
+    <RootNamespace>_11.Pattern.Facade</RootNamespace>
+    <AssemblyName>11.Pattern.Facade</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

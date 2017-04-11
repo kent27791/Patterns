@@ -7,8 +7,8 @@
     <ProjectGuid>{D40E5D62-204C-4AD1-A702-EC4EDFA01C17}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.NullObject</RootNamespace>
-    <AssemblyName>Pattern.NullObject</AssemblyName>
+    <RootNamespace>_18.Pattern.NullObject</RootNamespace>
+    <AssemblyName>18.Pattern.NullObject</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

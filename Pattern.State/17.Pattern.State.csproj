@@ -7,8 +7,8 @@
     <ProjectGuid>{BAB15417-DAF3-4FA3-A2E5-117802910112}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.State</RootNamespace>
-    <AssemblyName>Pattern.State</AssemblyName>
+    <RootNamespace>_17.Pattern.State</RootNamespace>
+    <AssemblyName>17.Pattern.State</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

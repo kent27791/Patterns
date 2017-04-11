@@ -7,8 +7,8 @@
     <ProjectGuid>{02304477-A90F-42F0-A7EE-50BF3080C690}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Observer</RootNamespace>
-    <AssemblyName>Pattern.Observer</AssemblyName>
+    <RootNamespace>_16.Pattern.Observer</RootNamespace>
+    <AssemblyName>16.Pattern.Observer</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

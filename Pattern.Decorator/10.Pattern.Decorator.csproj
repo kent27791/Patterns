@@ -7,8 +7,8 @@
     <ProjectGuid>{5CD1A62D-F4E1-4D4C-9025-574AF68013A1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Decorator</RootNamespace>
-    <AssemblyName>Pattern.Decorator</AssemblyName>
+    <RootNamespace>_10.Pattern.Decorator</RootNamespace>
+    <AssemblyName>10.Pattern.Decorator</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

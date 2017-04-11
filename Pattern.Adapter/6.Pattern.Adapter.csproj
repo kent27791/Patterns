@@ -7,8 +7,8 @@
     <ProjectGuid>{D8059EA4-D001-455E-A3D6-12E3F241A153}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Adapter</RootNamespace>
-    <AssemblyName>Pattern.Adapter</AssemblyName>
+    <RootNamespace>_6.Pattern.Adapter</RootNamespace>
+    <AssemblyName>6.Pattern.Adapter</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

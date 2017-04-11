@@ -7,8 +7,8 @@
     <ProjectGuid>{0FFBD474-4AA9-441B-BBAD-0956A465F187}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Filter</RootNamespace>
-    <AssemblyName>Pattern.Filter</AssemblyName>
+    <RootNamespace>_8.Pattern.Filter</RootNamespace>
+    <AssemblyName>8.Pattern.Filter</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

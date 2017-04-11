@@ -7,8 +7,8 @@
     <ProjectGuid>{B774E850-27B6-4D82-AB48-2913AD5F46B8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pattern.Visitor</RootNamespace>
-    <AssemblyName>Pattern.Visitor</AssemblyName>
+    <RootNamespace>_20.Pattern.Visitor</RootNamespace>
+    <AssemblyName>20.Pattern.Visitor</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
