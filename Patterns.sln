@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Pattern.Factory", "Pattern.Factory\1.Pattern.Factory.csproj", "{9A58D785-4F74-4B90-93A4-BF91C384C885}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Pattern.AbstractFactory", "Pattern.AbstractFactory\2.Pattern.AbstractFactory.csproj", "{668096AB-9182-496A-AA27-B34B9562343B}"
@@ -40,6 +42,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Pattern.Template", "Pattern.Template\19.Pattern.Template.csproj", "{07006B28-911D-4214-9390-291C35FFBFB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Pattern.Visitor", "Pattern.Visitor\20.Pattern.Visitor.csproj", "{B774E850-27B6-4D82-AB48-2913AD5F46B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.Pattern.ChainOfResponsibility", "21.Pattern.ChainOfResponsibility\21.Pattern.ChainOfResponsibility.csproj", "{7443BF46-9A6A-448C-B966-59AE0167B7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Pattern.Interpreter", "22.Pattern.Interpreter\22.Pattern.Interpreter.csproj", "{99D35059-64E5-46A2-9C6E-BB2DBE296A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.Pattern.Mediator", "23.Pattern.Iterator\23.Pattern.Mediator.csproj", "{D863659C-88FB-4F03-8D00-03C6AF42360E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.Pattern.Memento", "24.Pattern.Memento\24.Pattern.Memento.csproj", "{168CDF33-CA56-4E68-9AB5-9E412B8F6D18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,6 +137,22 @@ Global
 		{B774E850-27B6-4D82-AB48-2913AD5F46B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B774E850-27B6-4D82-AB48-2913AD5F46B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B774E850-27B6-4D82-AB48-2913AD5F46B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7443BF46-9A6A-448C-B966-59AE0167B7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7443BF46-9A6A-448C-B966-59AE0167B7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7443BF46-9A6A-448C-B966-59AE0167B7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7443BF46-9A6A-448C-B966-59AE0167B7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D35059-64E5-46A2-9C6E-BB2DBE296A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D35059-64E5-46A2-9C6E-BB2DBE296A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D35059-64E5-46A2-9C6E-BB2DBE296A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D35059-64E5-46A2-9C6E-BB2DBE296A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D863659C-88FB-4F03-8D00-03C6AF42360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D863659C-88FB-4F03-8D00-03C6AF42360E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D863659C-88FB-4F03-8D00-03C6AF42360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D863659C-88FB-4F03-8D00-03C6AF42360E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168CDF33-CA56-4E68-9AB5-9E412B8F6D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168CDF33-CA56-4E68-9AB5-9E412B8F6D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168CDF33-CA56-4E68-9AB5-9E412B8F6D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168CDF33-CA56-4E68-9AB5-9E412B8F6D18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
